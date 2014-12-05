@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.email = %q{rayshuddhashil@gmail.com}
   s.executables = ["whenever", "wheneverize"]
   s.extra_rdoc_files = ["bin/whenever", "bin/wheneverize", "CHANGELOG.rdoc", "lib/base.rb", "lib/command_line.rb", "lib/job_list.rb", "lib/job_types/default.rb", "lib/job_types/rake_task.rb", "lib/job_types/runner.rb", "lib/outputs/cron.rb", "lib/version.rb", "lib/whenever.rb", "README.rdoc"]
-  s.files = ["bin/whenever", "bin/wheneverize", "CHANGELOG.rdoc", "lib/base.rb", "lib/command_line.rb", "lib/job_list.rb", "lib/job_types/default.rb", "lib/job_types/rake_task.rb", "lib/job_types/runner.rb", "lib/outputs/cron.rb", "lib/version.rb", "lib/whenever.rb", "Manifest", "Rakefile", "README.rdoc", "test/command_line_test.rb", "test/cron_test.rb", "test/output_at_test.rb", "test/output_command_test.rb", "test/output_env_test.rb", "test/output_rake_test.rb", "test/output_runner_test.rb", "test/test_helper.rb", "whenever.gemspec"]
+  s.files = ["bin/whenever", "bin/wheneverize", "CHANGELOG.rdoc", "lib/base.rb", "lib/command_line.rb", "lib/job_list.rb", "lib/job_types/default.rb", "lib/job_types/rake_task.rb", "lib/job_types/runner.rb", "lib/outputs/cron.rb", "lib/version.rb", "lib/whenever.rb", "Manifest", "Rakefile", "README.rdoc", "test/command_line_test.rb", "test/cron_test.rb", "test/output_at_test.rb", "test/output_command_test.rb", "test/output_env_test.rb", "test/output_rake_test.rb", "test/output_runner_test.rb", "test/test_helper.rb", "whenever-ray.gemspec"]
   s.homepage = %q{http://github.com/raycoding/whenever}
   s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "Whenever", "--main", "README.rdoc"]
   s.require_paths = ["lib"]
